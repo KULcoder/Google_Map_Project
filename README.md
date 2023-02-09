@@ -1,6 +1,16 @@
-# cse158R_Assignment2
+# Google Map Project
+*This is a project from a recommender system and data mining class at University of California, San Diego. All right reserved.*
 
-### Download the data:
+This project does well displays a complete data science project:
+- data gathering
+- data preprocess
+- exploratory data analysis
+- define the predictive task
+- using pipeline 
+- test on different models
+- evaluating the result
+
+### Data Source:
 
 https://cseweb.ucsd.edu/~jmcauley/datasets.html#google_local
 
