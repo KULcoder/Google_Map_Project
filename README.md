@@ -5,7 +5,6 @@
 https://cseweb.ucsd.edu/~jmcauley/datasets.html#google_local
 
 ### Citation
-Please cite the following if you use the data:
 
 Translation-based factorization machines for sequential recommendation
 Rajiv Pasricha, Julian McAuley
